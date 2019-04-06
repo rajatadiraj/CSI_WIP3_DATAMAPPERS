@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu May  3 10:22:34 2018
+Created on 01-01-2019
 
-@author: Frank
+@author: DataMappers
 """
 from EvaluationData import EvaluationData
 from EvaluatedAlgorithm import EvaluatedAlgorithm

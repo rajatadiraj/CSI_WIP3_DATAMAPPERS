@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu May  3 10:48:02 2018
+Created on 12-01-2019
 
-@author: Frank
+@author: DataMappers
 """
 from surprise.model_selection import train_test_split
 from surprise.model_selection import LeaveOneOut
