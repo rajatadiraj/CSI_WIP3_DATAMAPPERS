@@ -1,4 +1,4 @@
-# CSI_WIP3_DATAMAPPERS
+# CSI WIP3 DATAMAPPERS
 CSI (Computer Society of India) WIP-3.0. Team-DataMappers (Aditya Raj, Aaryaman Sharma, Arpit Jain).
 This repository is for the project submission of CSI Winter Internship Program 3.0.
 
