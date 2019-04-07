@@ -1,3 +1,4 @@
+# This will load data and uses some basic functions 
 import os
 import csv
 import sys
