@@ -18,7 +18,7 @@ Step 5. Now test the algo with test set.
 
 Step 6. Compare TopN recommendation of KNN+SVD algo and a Random algo.
 
-Step 7. Analyse RSME and Novknow to know accuracy of TopN recommendation .
+Step 7. Analyse RSME and Novelty to know accuracy of TopN recommendation .
 
 ### Main Driver Function:-
 - MainTopN.py        ( Executing this files produces TopN recommendation using SVD+KNN algo among with a Random algo for comparision. )
