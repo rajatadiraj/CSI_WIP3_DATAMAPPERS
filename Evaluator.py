@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Created on 01-01-2019
 
@@ -78,9 +77,3 @@ class Evaluator:
             
             for ratings in recommendations[:10]:
                 print(ml.getMovieName(ratings[0]), ratings[1])
-                
-
-            
-            
-    
-    
