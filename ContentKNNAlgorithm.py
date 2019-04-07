@@ -1,4 +1,4 @@
-# This contains function that uses similarity matrix to compute recommendations
+# This contains function that uses similarity matrix to compute recommendations   
 from surprise import AlgoBase
 from surprise import PredictionImpossible
 from MovieLens import MovieLens
