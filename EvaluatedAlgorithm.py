@@ -1,3 +1,4 @@
+# This will try different algorithms and compare performance of them 
 # -*- coding: utf-8 -*-
 """
 Created on 21-02-2019
