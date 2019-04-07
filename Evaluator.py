@@ -1,4 +1,4 @@
-"""
+#Evaluator class is used to add algorithms and printing the results in tabular form
 Created on 01-01-2019
 
 @author: DataMappers
