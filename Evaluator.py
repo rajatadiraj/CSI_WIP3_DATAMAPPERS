@@ -4,6 +4,7 @@ Created on 01-01-2019
 
 @author: DataMappers
 """
+# This class is used to try different algorithms
 from EvaluationData import EvaluationData
 from EvaluatedAlgorithm import EvaluatedAlgorithm
 
