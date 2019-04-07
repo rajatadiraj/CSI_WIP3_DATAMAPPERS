@@ -1,5 +1,5 @@
 #Driver Function
-
+# This function is used to evaluate different algorithms and compare there performance
 # -*- coding: utf-8 -*-
 """
 Created on 06-04-2019
@@ -45,3 +45,4 @@ evaluator.Evaluate(False)
 evaluator.SampleTopNRecs(ml)
 
 
+  #

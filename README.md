@@ -10,15 +10,15 @@ Step 1. Collecting data.
 
 Step 2. Storing of data.
 
-Step 3. Analyzing the data.
+Step 3. Filtering the data into train and test set.
 
-Step 4. Filtering the data into train and test set.
+Step 4. Fiting SVD (Singular Value Decomposition) Algorithm on Train Set.
 
-Step 5. Apply SVD (Singular Value Decomposition) Algorithm on Train Set.
+Step 5. Now test the algo with test set.
 
-Step 6. Get top N Recommenndation.
+Step 6. Compare TopN recommendation of KNN+SVD algo and a Random algo.
 
-Step 7. Analyse RSME and MAE.
+Step 7. Analyse RSME and Novelty to know accuracy of TopN recommendation .
 
 ### Main Driver Function:-
 - MainTopN.py        ( Executing this files produces TopN recommendation using SVD+KNN algo among with a Random algo for comparision. )
@@ -37,3 +37,4 @@ We have uploaded the detailed explanation of the RRS in the PDF file.
 
 We have uploaded all the components required to execute this project including the MovieLens.csv file as the dataset.
 
+_______________________
