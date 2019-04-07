@@ -10,15 +10,15 @@ Step 1. Collecting data.
 
 Step 2. Storing of data.
 
-Step 3. Analyzing the data.
+Step 3. Filtering the data into train and test set.
 
-Step 4. Filtering the data into train and test set.
+Step 4. Fiting SVD (Singular Value Decomposition) Algorithm on Train Set.
 
-Step 5. Apply SVD (Singular Value Decomposition) Algorithm on Train Set.
+Step 5. Now test the algo with test set.
 
-Step 6. Get top N Recommenndation.
+Step 6. Compare TopN recommendation of KNN+SVD algo and a Random algo.
 
-Step 7. Analyse RSME and MAE.
+Step 7. Analyse RSME and Novknow to know accuracy of TopN recommendation .
 
 ### Main Driver Function:-
 - MainTopN.py        ( Executing this files produces TopN recommendation using SVD+KNN algo among with a Random algo for comparision. )
@@ -37,21 +37,4 @@ We have uploaded the detailed explanation of the RRS in the PDF file.
 
 We have uploaded all the components required to execute this project including the MovieLens.csv file as the dataset.
 
-
-Software required to execute files:-
-1. Python 3 
-2. Spyder ( Anaconda )
-Library needed to be installed:-
-1. Surprise ( scikit-learn )
-2. Pandas
-3. Numpy
-
-Recommender System is a system that seeks to predict or filter preferences according to the user’s choices. Recommender systems are utilized in a variety of areas including movies, music, news, books, research articles, search queries, social tags, and products, in general. A more formal definition of recommendation systems would be, it is a subclass of information filtering system that seeks to predict the “rating” or “preference” a user would give to an item.
-
-Workflow:-
-1. Collecting Data
-2. Storing of data
-3. Analyzing the data
-4. Filtering the data
-5. Apply SVD (Singular Value Decomposition) Algorithm
-6. Predicted Data  
+_______________________
