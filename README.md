@@ -31,8 +31,10 @@ Main Driver Function:-
 Software required to execute files:-
 1. Python 3 
 2. Spyder ( Anaconda )
+
 Library needed to be installed:-
 1. Surprise ( scikit-learn )
-
+2. Numpy
+3. Pandas
 
 
