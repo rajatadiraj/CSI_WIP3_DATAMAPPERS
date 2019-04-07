@@ -1,3 +1,4 @@
+# This contains all functions to evaluate our algorithm
 from MovieLens import MovieLens
 from surprise import SVD
 from surprise import KNNBaseline
