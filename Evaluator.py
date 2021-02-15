@@ -1,9 +1,4 @@
 #Evaluator class is used to add algorithms and printing the results in tabular form
-Created on 01-01-2019
-
-@author: DataMappers
-"""
-# This class is used to try different algorithms
 from EvaluationData import EvaluationData
 from EvaluatedAlgorithm import EvaluatedAlgorithm
 
